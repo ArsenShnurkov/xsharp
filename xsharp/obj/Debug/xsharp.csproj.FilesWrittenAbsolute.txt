@@ -1,5 +1,0 @@
-/usr/src/git/github.com/xsharp/ArsenShnurkov/xsharp/bin/Debug/xsharp.pdb
-/usr/src/git/github.com/xsharp/ArsenShnurkov/xsharp/bin/Debug/xsharp.dll
-/usr/src/git/github.com/xsharp/ArsenShnurkov/xsharp/obj/Debug/xsharp.dll
-/usr/src/git/github.com/xsharp/ArsenShnurkov/xsharp/obj/Debug/xsharp.pdb
-/usr/src/git/github.com/xsharp/ArsenShnurkov/xsharp/obj/Debug/.NETFramework,Version=v4.7.1.AssemblyAttribute.cs
