@@ -1,0 +1,6 @@
+/usr/src/git/github.com/xsharp/ArsenShnurkov/mini/bin/Debug/xsharp.dll
+/usr/src/git/github.com/xsharp/ArsenShnurkov/mini/bin/Debug/xsharp.pdb
+/usr/src/git/github.com/xsharp/ArsenShnurkov/mini/bin/Debug/mini.pdb
+/usr/src/git/github.com/xsharp/ArsenShnurkov/mini/bin/Debug/mini.exe
+/usr/src/git/github.com/xsharp/ArsenShnurkov/mini/obj/Debug/mini.exe
+/usr/src/git/github.com/xsharp/ArsenShnurkov/mini/obj/Debug/mini.pdb

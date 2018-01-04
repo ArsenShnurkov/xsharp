@@ -1,0 +1,7 @@
+/usr/src/git/github.com/xsharp/ArsenShnurkov/windowtest/obj/Debug/.NETFramework,Version=v4.7.1.AssemblyAttribute.cs
+/usr/src/git/github.com/xsharp/ArsenShnurkov/windowtest/bin/Debug/xsharp.dll
+/usr/src/git/github.com/xsharp/ArsenShnurkov/windowtest/bin/Debug/xsharp.pdb
+/usr/src/git/github.com/xsharp/ArsenShnurkov/windowtest/bin/Debug/windowtest.pdb
+/usr/src/git/github.com/xsharp/ArsenShnurkov/windowtest/bin/Debug/windowtest.exe
+/usr/src/git/github.com/xsharp/ArsenShnurkov/windowtest/obj/Debug/windowtest.exe
+/usr/src/git/github.com/xsharp/ArsenShnurkov/windowtest/obj/Debug/windowtest.pdb
